@@ -1,6 +1,10 @@
 <!-- HEADER -->
-<div align="center" width="100">
+<!-- <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Leonardo%20Rösler&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div> -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=240&section=header&text=Leonardo%20Rösler&fontSize=32&fontColor=00ffcc&animation=twinkling"
   alt="header"/>
 </div>
 
@@ -178,7 +182,7 @@
 </br>
 
 <!-- FOOTER -->
-<div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
-  alt="footer" />
-</div>
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=120&section=footer&fontColor=00ffcc"
+  alt="footer"/>
+</div> -->
